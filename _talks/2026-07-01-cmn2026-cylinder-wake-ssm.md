@@ -9,4 +9,6 @@ date: 2026-07-01
 location: "Gijón, Spain"
 ---
 
-Benchmark of convolutional UNet, ConvLSTM and Mamba-based (MambaUNet) models on two-dimensional cylinder wake flow at Re = 200, across three downscaling factors and several random seeds. All three reach similar one-step accuracy, but their autoregressive rollouts diverge: UNet errors explode over 15 steps, while the state-space model stays stable across seeds.
+Presented with Jordi Cipriano (CIMNE BEE Group) under the slide title *Physics-Regularized State-Space Models for Space-Time Super-Resolution of Vortex-Dominated Flows*.
+
+A shared encoder-decoder with one interchangeable temporal stage (UNet, ConvLSTM, Transformer, Mamba) is trained with a divergence penalty and tested on a moving-cylinder wake benchmark (Decuyper, De Troyer & Runacres, VUB, 2024). The physics penalty brings the velocity divergence below the data's own discretization floor. Without a temporal stage, multi-step reconstruction collapses. The selective state-space stage gives the lowest error.

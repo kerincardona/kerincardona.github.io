@@ -11,4 +11,6 @@ location: "Online"
 
 Surface urban heat island intensity by Local Climate Zone in Barcelona, derived from twelve years of Landsat land surface temperature.
 
-Slides, poster and figure scripts: [github.com/kerincardona/ecrs2026-barcelona-lst](https://github.com/kerincardona/ecrs2026-barcelona-lst).
+[Slides (PDF)](/files/talks/Cardona_ECRS2026_S5_slides.pdf) · [Poster (PDF)](/files/talks/Cardona_ECRS2026_S5_poster.pdf) · [Source, figure scripts and abstract](https://github.com/kerincardona/ecrs2026-barcelona-lst)
+
+Slides and poster: CC BY 4.0, except the ECRS/MDPI template elements (banner, logos).

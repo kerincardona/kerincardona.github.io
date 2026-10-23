@@ -11,4 +11,6 @@ location: "Online"
 
 Multi-sensor benchmark for thermal downscaling over Barcelona, evaluated with rank-based baselines.
 
-Poster and figure scripts: [github.com/kerincardona/ecrs2026-barcelona-lst](https://github.com/kerincardona/ecrs2026-barcelona-lst).
+[Poster (PDF)](/files/talks/Cardona_ECRS2026_S1_poster.pdf) · [Source, figure scripts and abstract](https://github.com/kerincardona/ecrs2026-barcelona-lst)
+
+Poster: CC BY 4.0, except the ECRS/MDPI template elements (banner, logos).
