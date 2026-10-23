@@ -23,7 +23,7 @@ repository               : "kerincardona/kerincardona.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kerin Cardona"
   pronouns         : # example: "she/her"  
   bio              : "PhD researcher. Machine learning for urban microclimate and heat exposure."
